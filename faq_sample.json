@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "What is the waiting period for health insurance claims?",
+    "output": "The waiting period is typically 30 days for new claims; some plans may have longer periods for pre-existing conditions."
+  },
+  {
+    "instruction": "Does my car insurance cover flood damage?",
+    "output": "Flood damage is usually covered under comprehensive coverage; collision coverage alone won't cover floods."
+  },
+  {
+    "instruction": "How can I add a family member to my health insurance?",
+    "output": "Contact your insurer or agent and request to add a dependent; you'll need personal details and proof of relationship."
+  },
+  {
+    "instruction": "What is deductible in an insurance policy?",
+    "output": "A deductible is the amount you pay out-of-pocket before insurance pays for a claim."
+  },
+  {
+    "instruction": "Are pre-existing conditions covered by health insurance?",
+    "output": "Coverage depends on the policy; some insurers apply waiting periods for pre-existing conditions."
+  },
+  {
+    "instruction": "How do I file a car insurance claim after an accident?",
+    "output": "Contact your insurer immediately, document the scene, gather police reports, and submit the claim through the insurer's portal."
+  },
+  {
+    "instruction": "Can I cancel my policy anytime?",
+    "output": "Yes, you can usually cancel, but cancellation terms (refunds/penalties) depend on the insurer and policy."
+  },
+  {
+    "instruction": "What factors affect life insurance premium?",
+    "output": "Age, health, tobacco use, occupation, and coverage amount are common factors affecting premiums."
+  },
+  {
+    "instruction": "Is roadside assistance included in car insurance?",
+    "output": "Roadside assistance is often an optional add-on; check your policy details to confirm."
+  },
+  {
+    "instruction": "How long does it take to settle an insurance claim?",
+    "output": "Settlement time varies \u2014 simple claims may take days; complex claims can take weeks or months."
+  },
+  {
+    "instruction": "Does health insurance cover mental health services?",
+    "output": "Many modern health plans include mental health coverage; check your benefits for specifics."
+  },
+  {
+    "instruction": "What is no-claim bonus (NCB)?",
+    "output": "NCB is a discount on your premium offered when you make no claims during the policy period."
+  },
+  {
+    "instruction": "How to update my contact details with insurance provider?",
+    "output": "Log into the insurer portal or contact customer support to update contact information."
+  },
+  {
+    "instruction": "Are natural disasters covered under home insurance?",
+    "output": "Standard home policies may exclude certain disasters; flood and earthquake coverages are often separate add-ons."
+  },
+  {
+    "instruction": "What documents are required for life insurance claim?",
+    "output": "Typically death certificate, identity documents, policy copy, and claim forms; check insurer checklist."
+  },
+  {
+    "instruction": "Can I get a discount for bundling policies?",
+    "output": "Many insurers offer multi-policy discounts when you bundle auto, home, or other policies."
+  },
+  {
+    "instruction": "Does my policy have cashless hospitalisation?",
+    "output": "If your insurer network includes the hospital, cashless treatment is usually available; verify network hospitals."
+  },
+  {
+    "instruction": "What is subrogation in insurance?",
+    "output": "Subrogation allows an insurer to pursue recovery from a third party responsible for loss after paying the claim."
+  },
+  {
+    "instruction": "How do I renew my insurance policy online?",
+    "output": "Visit the insurer website, go to the policy section, and choose renew; you can pay online using provided options."
+  },
+  {
+    "instruction": "Can I change my premium payment frequency?",
+    "output": "Yes, many insurers allow monthly/quarterly/annual payment options \u2014 talk to your agent or update online."
+  }
+]
