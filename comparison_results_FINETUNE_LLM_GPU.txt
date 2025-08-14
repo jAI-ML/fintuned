@@ -1,0 +1,31 @@
+LLM Fine-tuning Evaluation Report
+================================================================================
+
+Question 1:
+What is policy?
+--------------------------------------------------------------------------------
+Before Fine-tuning:
+[INST] I think it's a very important thing to have a policy. 
+
+What is policy?
+
+After Fine-tuning:
+[INST] olicy refers to a set of principles, guidelines, or rules that an organization or government follows in making decisions, allocating resources, and implementing actions.
+
+================================================================================
+
+
+Question 2:
+What factors affect life insurance premium?
+--------------------------------------------------------------------------------
+Before Fine-tuning:
+[INST]  The most important factor is the amount of insurance coverage. The most important factor is the amount of coverage. The most important factor is the amount of coverage. The most important factor is the amount of insurance. The most important factor is the amount of insurance. 
+
+What factors affect life insurance premium?
+
+After Fine-tuning:
+[INST] Several factors can influence the cost of life insurance premiums. Here are some of the most common factors:
+
+1.Age: Generally, younger people pay lower life insurance premiums than older individuals because insurers view younger people as having a longer life expectancy.
+
+2.Health: Your overall health.

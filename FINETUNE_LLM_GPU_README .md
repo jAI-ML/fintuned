@@ -107,6 +107,8 @@ model = AutoModelForCausalLM.from_pretrained(
 )
 ```
 
+
+
 ### LoRA Settings
 ```python
 lora_config = LoraConfig(
@@ -138,33 +140,24 @@ training_args = TrainingArguments(
 
 ## 📈 Performance Results
 
-### Training Metrics
-| Metric | Value |
-|--------|-------|
-| **Initial Loss** | 3.20- 3.30 |
-| **Final Loss** | 0.07 - 0.07 |
-| **Training Time** | 10 minutes  |
-| **GPU Utilization** | T4 (15GB VRAM) |
-| **Memory Usage** | ~8GB peak |
-| **Epochs** | 5 |
+    ### Training Metrics
 
-### Memory Efficiency Comparison
-| Configuration | VRAM Usage | Speedup |
-|---------------|------------|---------|
-| Full Precision (FP32) | ~28GB | 1x |
-| Half Precision (FP16) | ~14GB | 1.8x |
-| **4-bit Quantized** | **~8GB** | **3.5x** |
+    We will share later.
+
 
 ### Quality Assessment
 
-**Sample Question**: "What is co-payment?"
+Question 1:
+What is policy?
+--------------------------------------------------------------------------------
+Before Fine-tuning:
+[INST] I think it's a very important thing to have a policy. 
 
+What is policy?
 
-**Before Fine-tuning**:
->A co-payment (often called a copay) is a fixed amount you pay for a covered health care service after you’ve paid your deductible. For example, you might pay $20 for a doctor’s visit or $10 for a prescription. The rest of the cost is covered by your insurance plan.
+After Fine-tuning:
+[INST] olicy refers to a set of principles, guidelines, or rules that an organization or government follows in making decisions, allocating resources, and implementing actions.
 
-**After Fine-tuning**:
-> A co-payment is a type of cost-sharing provision found in many health insurance plans. It refers to a fixed amount that an insured person must pay out-of-pocket for a specific healthcare service or prescription drug.
 
 **Improvement**: ✅ More concise, actionable, and insurance-specific
 
