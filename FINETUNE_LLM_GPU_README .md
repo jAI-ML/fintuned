@@ -1,4 +1,4 @@
-<img width="357" height="344" alt="image" src="https://github.com/user-attachments/assets/4fbdc384-491e-4e56-96b8-41ee6d1d32bb" /># Memory-Efficient LLM Fine-tuning with 4-bit Quantization
+# Memory-Efficient LLM Fine-tuning with 4-bit Quantization
 
 An optimized implementation for fine-tuning Mistral-7B on insurance FAQ data using 4-bit quantization and LoRA, designed to run efficiently on budget GPUs like T4.
 
@@ -141,25 +141,12 @@ training_args = TrainingArguments(
 ## 📈 Performance Results
 
 ### Training Metrics
-Metric	        : Value
-Initial Loss    : N/A	
-Final Loss	    : N/A
-Training Time	  : 12 minutes 10 seconds
-GPU Utilization : CPU
-Memory Usage	  : ~0.0GB peak
-Epochs	        : N/A
+<img width="357" height="344" alt="image" src="https://github.com/user-attachments/assets/4fbdc384-491e-4e56-96b8-41ee6d1d32bb" />
 
 
 ### Memory Efficiency Comparison
+<img width="357" height="267" alt="image" src="https://github.com/user-attachments/assets/2f89d055-31b0-4929-b267-ccc5d0ef8030" />
     
-Configuration	          VRAM Usage	Speedup
-Full Precision (FP32)	  ~28GB	      1x
-Half Precision (FP16)	  ~14GB	      1.8x
-4-bit Quantized	        ~8GB	      3.5x
-
-    
-
-
 ### Quality Assessment
 
 Question 1:
