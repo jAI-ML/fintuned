@@ -16,16 +16,27 @@ After Fine-tuning:
 
 
 Question 2:
-What factors affect life insurance premium?
+What is a waiting period in health insurance?
 --------------------------------------------------------------------------------
 Before Fine-tuning:
-[INST]  The most important factor is the amount of insurance coverage. The most important factor is the amount of coverage. The most important factor is the amount of coverage. The most important factor is the amount of insurance. The most important factor is the amount of insurance. 
 
-What factors affect life insurance premium?
+[INST] A waiting period is a specific length of time that must pass before an insured person can receive coverage for certain benefits under a health insurance policy. This period is typically applied to pre-existing conditions, elective surgeries, or other services.
+
+
+What is a waiting period in health insurance?
 
 After Fine-tuning:
-[INST] Several factors can influence the cost of life insurance premiums. Here are some of the most common factors:
+[INST] A waiting period in health insurance refers to a specific time frame after which an insured person becomes eligible for coverage for certain benefits or services. This period can vary depending on the specific policy and the type of coverage. For example, a waiting period for major medical procedures or pre-existing conditions.
 
-1.Age: Generally, younger people pay lower life insurance premiums than older individuals because insurers view younger people as having a longer life expectancy.
 
-2.Health: Your overall health.
+
+Question 3:
+ insurance claims ?
+--------------------------------------------------------------------------------
+Before Fine-tuning:
+[INST] nsurance claims refer to requests for payment made by policyholders to their insurance companies for losses or damages covered under their insurance policies. These claims can be for various types of losses, such as property damage, personal injury, or financial losses. 
+
+ insurance claims ?
+
+After Fine-tuning:
+[INST] These claims can be for various types of losses, such as property damage, personal injury, or financial losses. The insurance company evaluates the claim, determines the coverage, and processes.

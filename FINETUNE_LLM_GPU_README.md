@@ -140,6 +140,7 @@ training_args = TrainingArguments(
 
 ## 📈 Performance Results
 
+
 ### Training Metrics
 <img width="357" height="344" alt="image" src="https://github.com/user-attachments/assets/4fbdc384-491e-4e56-96b8-41ee6d1d32bb" />
 
@@ -158,7 +159,7 @@ Before Fine-tuning:
 What is policy?
 
 After Fine-tuning:
-[INST] olicy refers to a set of principles, guidelines, or rules that an organization or government follows in making decisions, allocating resources, and implementing actions.
+[INST] Policy refers to a set of principles, guidelines, or rules that an organization or government follows in making decisions, allocating resources, and implementing actions.
 
 
 **Improvement**: ✅ More concise, actionable, and insurance-specific

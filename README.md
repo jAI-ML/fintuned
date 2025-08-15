@@ -8,7 +8,7 @@ This repository provides a Google Colab–ready Jupyter Notebook to fine-tune **
 - `FineTune_GPU.ipynb` — Colab-ready notebook containing all steps and code
 - `faq_sample.json` — Mock insurance FAQ dataset (20 Q&A pairs)
 - `comparison_results_FINETUNE_LLM_GPU.txt` — Example comparison file (structure-ready; you will generate real results after running the notebook in Colab)
-- `FINETUNE_LLM_GPU_README .md` - Project Overview
+- `FINETUNE_LLM_GPU_README.md` - Project Overview
 
 ## How to run (Google Colab)
 1. Open Google Colab and upload or mount this notebook (`FineTune_GPU.ipynb`) or open directly if stored in Google Drive/GitHub.
@@ -26,4 +26,4 @@ This repository provides a Google Colab–ready Jupyter Notebook to fine-tune **
 - `FineTune_GPU.ipynb`
 - `faq_sample.json`
 - `comparison_results_FINETUNE_LLM_GPU.txt`
-- `FINETUNE_LLM_GPU_README .md`
+- `FINETUNE_LLM_GPU_README.md`
